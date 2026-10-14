@@ -12,6 +12,7 @@ Sou uma profissional de governança de TI que acredita que segurança da informa
 |---|---|---|---|
 | 1 | Botium Toys – Internal Security Audit | NIST CSF, avaliação de riscos, controles, PCI DSS, GDPR, SOC | [Ver projeto](./botium-toys-security-audit/README.md) |
 | 2 | Matriz de Riscos de TI – Flor de Ipê Cosméticos | ISO 31000, ISO/IEC 27005, LGPD, mapa de calor, plano de ação | [Ver projeto](./matriz-de-riscos-ti/README.md) |
+| 3 | Checklist de Conformidade com a LGPD – Flor de Ipê Cosméticos | LGPD, mapeamento de dados, direitos dos titulares, incidentes, plano de adequação | [Ver projeto](./checklist-lgpd/README.md) |
 
 *Novos projetos serão adicionados conforme avanço no curso.*
 
